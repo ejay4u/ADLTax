@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ADLi</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Enter Code</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">ADLi Data</string>
+    <string name="title_activity_property">Property Info</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_data">Data</string>
+    <string name="action_revenue">Revenue</string>
+
+    <string name="prompt_firstname">First Name</string>
+    <string name="prompt_surname">Surname</string>
+    <string name="prompt_housenumber">House Number</string>
+    <string name="prompt_propertyvalue">Property Value</string>
+    <string name="action_submit_property">Submit</string>
+    <string name="action_submit_property_short">Submit</string>
+    <string name="title_activity_revenue">ADLi Revenue</string>
+    <string name="title_activity_collection">CollectionActivity</string>
+
+
+</resources>
